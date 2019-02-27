@@ -3,8 +3,10 @@ A clinical application for predicting mortality with pediatric traumatic brain i
 
 To get started, download a recent java version from https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html.
 
-With an appropriate java version, download "TMP3.jar". If you are trying to run the program on Windows or Mac all you need to do is click the downloaded file as if it were any other program. On linux, run the following command in the directory of the downloaded file
+With an appropriate java version, download "TMP3.jar". If you are trying to run the program on Windows or Mac all you need to do is click the downloaded file as if it were any other program.
 
-```js
+In linux environments, run the following command in the directory of the downloaded file
+
+```bash
 java -jar TMP3.jar
 ```
